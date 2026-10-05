@@ -1,2 +1,2 @@
-PyMuPDF==1.24.7
-PyMuPDFb==1.24.6
+# Compatibility with the original filename. Use requirements.txt for new setups.
+-r requirements.txt
